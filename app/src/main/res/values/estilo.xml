@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CorMenu">
+        <item name="android:textColor">#FDF0EF</item>
+        <item name="android:text">#FDF0EF</item>
+    </style>
+</resources>
